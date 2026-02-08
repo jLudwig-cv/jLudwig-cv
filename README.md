@@ -3,7 +3,7 @@
 ### Software Developer | Computer Vision & Machine Learning
 
 📍 Köln, Germany  
-📧 [joel.elias.ludwig@gmail.com](mailto:joel.elias.ludwig@gmail.com)
+📧 joel.elias.ludwig@gmail.com
 
 
 ## 📂 Featured Projects
