@@ -1,16 +1,32 @@
-## Hi there 👋
+# Portfolio Joel Ludwig
 
-<!--
-**jLudwig-cv/jLudwig-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Computer Vision & Machine Learning
 
-Here are some ideas to get you started:
+📍 Köln, Germany  
+📧 [joel.elias.ludwig@gmail.com](mailto:joel.elias.ludwig@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Featured Projects
+
+### 🔹 HDR Image Reconstruction
+> Pipeline for SDR to HDR conversion (Inverse Tone Mapping) using U-Net structure.
+
+➡️ [View Project](https://github.com/Jok4pp/HDR-Reconstruction-from-SDR-Film-Material-using-U-Net)
+
+---
+### 🔹 Enhancement of Video Quality Metric
+> Introduced HDR color processing into the existing VMAF quality metric developed by Netflix
+
+➡️ [View Project](https://github.com/Jok4pp/Color-Video-Quality-Evaluation-with-VMAF)
+
+---
+
+### 🔹 Crowd Counting Pipeline
+> Automatic assessment of crowd size using CNN structure.
+
+➡️ [View Project](https://github.com/Jok4pp/Density-Map-Crowd-Counting)
+
+---
+
+
+
