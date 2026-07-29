@@ -8,23 +8,29 @@
 
 ## 📂 Featured Projects
 
+### 🔹 SAM2 Image Segmentation 
+> Interactive image segmentation tool built on Meta's SAM2, deployed end-to-end on AWS ECS Fargate.
+
+➡️ [View Project](https://github.com/jLudwig-cv/SAM2-Pipeline)
+
+--- 
 ### 🔹 HDR Image Reconstruction
 > Pipeline for SDR to HDR conversion (Inverse Tone Mapping) using U-Net structure.
 
-➡️ [View Project](https://github.com/Jok4pp/HDR-Reconstruction-from-SDR-Film-Material-using-U-Net)
+➡️ [View Project](https://github.com/jLudwig-cv/HDR-Reconstruction-from-SDR-Film-Material-using-U-Net)
 
 ---
 ### 🔹 Enhancement of Video Quality Metric
 > Introduced HDR color processing into the existing VMAF quality metric developed by Netflix
 
-➡️ [View Project](https://github.com/Jok4pp/Color-Video-Quality-Evaluation-with-VMAF)
+➡️ [View Project](https://github.com/jLudwig-cv/Color-Video-Quality-Evaluation-with-VMAF)
 
 ---
 
 ### 🔹 Crowd Counting Pipeline
 > Automatic assessment of crowd size using CNN structure.
 
-➡️ [View Project](https://github.com/Jok4pp/Density-Map-Crowd-Counting)
+➡️ [View Project](https://github.com/jLudwig-cv/Density-Map-Crowd-Counting)
 
 ---
 
